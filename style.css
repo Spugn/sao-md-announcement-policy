@@ -5,3 +5,9 @@ body {
 .warn {
     color: red;
 }
+
+.link {
+    color: blue;
+    font-weight: bolder;
+    font-size: large;
+}
